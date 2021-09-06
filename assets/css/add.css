@@ -1,0 +1,235 @@
+body {}
+
+.form-w3l {
+    text-align: center;
+    background: white;
+    /* fallback for old browsers */
+    border-radius: 10px;
+}
+
+.w3l-form {
+    width: 10%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+/* h1 {
+    font-size: 40px;
+    font-weight: 20;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 10px;
+    color: gold;
+    font-family: 'Lato', sans-serif;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: gold;
+    font-family: 'Raleway', sans-serif;
+} */
+
+.img img {
+    border-radius: 4em;
+    border: 2px solid gold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="phone"] {
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    box-sizing: border-box;
+    border: none;
+    float: left;
+    width: 90%;
+    margin: 0 0 10px 0;
+    padding: 10px;
+    outline: none;
+    background: transparent;
+    color: black;
+    font-family: 'Raleway', sans-serif
+}
+
+.w3l-user,
+.w3l-password,
+.w3l-email,
+.w3l-phone {
+    font-size: 15px;
+    font-weight: 300;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    border: none;
+    display: inline-block;
+    width: 90%;
+    margin: 0 0 10px 0;
+    outline: none;
+    border-bottom: 1px solid gold;
+    color: gold;
+    font-family: 'Raleway', sans-serif
+}
+
+input[type="submit"] {
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 10px;
+    width: 92%;
+    box-sizing: border-box;
+    margin: 20px auto;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    font-family: 'Raleway', sans-serif;
+    border: 2px solid gold;
+}
+
+.form-w3l {
+    text-align: center;
+    background: black/* fallback for old browsers */
+}
+
+.w3l-form {
+    width: 10%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+/* h1 {
+    font-size: 40px;
+    font-weight: 20;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 10px;
+    color: gold;
+    font-family: 'Lato', sans-serif;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: gold;
+    font-family: 'Raleway', sans-serif;
+} */
+
+.img img {
+    border-radius: 4em;
+    border: 2px solid gold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="phone"] {
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    box-sizing: border-box;
+    border: none;
+    float: left;
+    width: 90%;
+    margin: 0 0 10px 0;
+    padding: 10px;
+    outline: none;
+    background: transparent;
+    color: gold;
+    font-family: 'Raleway', sans-serif;
+}
+
+.w3l-user,
+.w3l-password,
+.w3l-email,
+.w3l-phone {
+    font-size: 15px;
+    font-weight: 300;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    border: none;
+    display: inline-block;
+    width: 90%;
+    margin: 0 0 10px 0;
+    outline: none;
+    border-bottom: 1px solid gold;
+    color: gold;
+    font-family: 'Raleway', sans-serif;
+}
+
+input[type="submit"] {
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 10px;
+    width: 92%;
+    box-sizing: border-box;
+    margin: 20px auto;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    font-family: 'Raleway', sans-serif;
+    border: 2px solid gold;
+}
+
+input[type="submit"]:hover {
+    color: gold;
+    border: 2px solid gold;
+    font-family: 'Raleway', sans-serif;
+}
+
+::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: gold;
+}
+
+::-moz-placeholder {
+    /* Firefox 19+ */
+    color: gold;
+}
+
+:-ms-input-placeholder {
+    /* IE 10+ */
+    color: gold;
+}
+
+:-moz-placeholder {
+    /* Firefox 18- */
+    color: gold;
+}
+
+input[type="submit"]:hover {
+    color: black;
+    border: 2px solid gold;
+    font-family: 'Raleway', sans-serif;
+}
+
+::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: gold;
+}
+
+::-moz-placeholder {
+    /* Firefox 19+ */
+    color: gold;
+}
+
+:-ms-input-placeholder {
+    /* IE 10+ */
+    color: gold;
+}
+
+:-moz-placeholder {
+    /* Firefox 18- */
+    color: gold;
+}

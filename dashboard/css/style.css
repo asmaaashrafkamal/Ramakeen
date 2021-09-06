@@ -1,0 +1,454 @@
+body,h1,h2,h3,h4,h5,h6{font-family: cairo, sans-serif; }
+.end { margin-right: 0 !important; }
+/* Column Grids End */
+
+.wrapper { width: 980px; margin: 30px auto; position: relative;}
+.counter { background-color: #ffffff; padding: 20px 0; border-radius: 5px;}
+.count-title { font-size: 40px; font-weight: normal;  margin-top: 10px; margin-bottom: 0; text-align: center; }
+.count-text { font-size: 13px; font-weight: normal;  margin-top: 10px; margin-bottom: 0; text-align: center; }
+.fa-2x { margin: 0 auto; float: none; display: table; color: #4ad1e5; }
+
+nav{ opacity: 85%;}
+/* slider */
+.d-block.w-100{
+    height: 89vh;
+}
+/* counter */
+/* Rectangle 5 */
+.container.overflow-hidden{
+padding: 5px;
+}
+.boxa{
+
+    box-shadow: 0 0 0 0 #ffffff;
+    border-width: 6px;
+    border-color: #ceb475;
+    border-style: double;
+    margin: 0 0 0 0;
+    height: 150px;
+   
+    }
+    .timer.count-title.count-number{
+        color: #BDAA59;
+        font-family: Cairo;
+        font-weight: 500;
+        font-size: 50px;
+        padding-left: 10px;  
+    }
+    
+    .word{
+    color: #000;
+    font-size: 36px;
+    font-weight: 600px;
+    padding-left: 5px;
+    font-family: 'Cairo';
+    }
+    /* content */
+/* 7agz */
+.reform{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+
+/*basics titles*/
+
+.dtitle{
+    color: #000; 
+    text-decoration: underline #BDAA59 4px;
+    text-align: start;
+    direction: rtl;
+    padding-right: 20px;
+}
+
+/*end of basics titles*/
+
+.docu{
+    color: #000;
+    font-family: 'Cairo', sans-serif;
+    text-align: right;
+    font-size: large;
+    font-weight: 300;
+    padding: 30px;
+    
+}
+/*الرؤية والرسالة */
+.box{
+    
+    box-shadow: 0 0 0 0 #ffffff;
+    margin: 20px;
+    border: .5px solid #ceb475;
+    width: 700px;
+    height: 100px;
+    border-style: double;
+    border-width: 6px;
+   text-align: center;
+   
+}
+.mv-title,.mv-text{
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+}
+.mv-title{
+    font-weight: bold;
+    font-size: 20px;
+
+}
+/* نهاية الرؤية والرسالة */
+.kalam{
+    font-size: 20px;
+}
+.texts{
+    font-size: 18px;
+    line-height: 2em;
+}
+/* خدماتنا */
+
+#service-three{
+    background-color: #f9f9f9  ;
+    height: 700px;
+}
+
+#service-three .container .row .servicetitle{
+    font-family: cairo;
+    padding-top: 50px;
+    text-transform: none;
+    text-align: right;
+    font-size: 22px;
+    line-height: 22px;
+    font-weight: 600;
+    
+    
+}
+#service-three {
+    direction: rtl;
+
+}
+#service-three .container .row .servicenum{
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    font-family: 'Cairo', sans-serif;
+    font-size: 18px;
+     font-weight: 300;
+    padding-right: 10px;
+    padding-top: 30px;
+    padding-bottom: 1px;    
+}
+#service-three .container .row span{
+     width: 33px;
+    height: 33px;
+    line-height: 33px;
+    background-color: #CEB475;
+    color: #FFFFFF;
+    border-radius: 10px;
+    margin-left:25px;
+    text-align: center;
+    padding-left: 1px;
+  
+}
+/* end of serv*/
+
+  
+.card-title{
+    font-family: cairo;
+    color:#BDAA59;
+    text-align: center;
+    font-size: 38px;
+    font-weight: bolder;
+}
+.card-text{
+    font-family: cairo;
+    color: whitesmoke;
+    text-align: center;  
+    font-weight: bold; 
+    font-size: 22px;
+}
+.btn.btn-outline.btn-rounded{
+    border: 1px solid #BDAA59;
+    left: 45%;
+    font-size: 18px;
+    font-family: cairo;
+    padding-left: 25px;
+    padding-right: 25px;
+    }
+
+
+        #book-a-table {
+            background-color: white;
+            padding-top:10px;
+            padding-bottom:10px;
+            margin: 5;
+            float: left;
+            width: 100%;
+            box-shadow: 0px 5px 10px 0px lightgray;
+            border-radius: 15px;
+        }
+        .book-a-table p {
+            color: #9a9a9a;
+        }
+        .book-a-table textarea {
+            min-height: 200px;
+            max-width: 100%;
+        }
+   
+.img-thumbnail{
+  width: 300px;
+  height: 50px;
+}
+
+.h2{
+    background-color: black;
+    font-family: cairo;
+    font-size: medium;
+   
+    
+}
+
+/* map section*/
+.column {
+    float: right;
+    height: 33.33%;
+    width: 50%;
+    padding-top: 5%;
+  }
+  .column2{
+      width: 100%;
+  }
+
+    /*الحجز */
+ .btn1{
+     color: #BDAA59;
+     background-color: #ffffff;
+     border: 1px solid #BDAA59 ;
+     font-size: 20px;
+     font-weight: lighter;
+     }
+     .btn2{
+        color: white;
+        background-color: #ffffff;
+        border: 1px solid #BDAA59 ;
+        font-size: 20px;
+        font-weight: lighter;
+        padding-left: 20px;
+        padding-right: 20px;
+
+     }
+      .container {
+        text-align: center;
+        padding: 70px;
+      }
+      /*من نحن */
+
+      #about-title{
+        background-color:  #000000;
+        padding: 70px 0 50px 950px;
+        text-align: right;
+        /* padding-right: 90px; */
+        margin-top: -95px !important;
+         height: 200px;
+         margin-bottom: 80px;
+       
+    }
+    .atitle{ 
+    
+        color: #ceb475;
+        font-size: 36px;
+        font-family: 'Cairo', sans-serif;
+        font-weight: 550;
+        line-height: 1.2em;
+        text-transform: none;
+        direction: rtl;
+        padding-top: 3px;
+       
+    
+    }
+    
+.t-title{
+    background-color:  black;
+    text-align: right;
+    /* padding-right: 90px; */
+    margin-top: -95px !important;
+     height: 180px;
+     margin-bottom: 80px; 
+     color: #ceb475;
+    font-size: 35px;
+    padding-right: 45px;
+    font-family: 'Cairo', sans-serif;
+    font-weight: 550;
+    text-transform: none;
+    direction: rtl;
+    padding-top: 80px;  
+}
+
+      /* footer */
+      .w3-container.w3-black{
+          height: 55vh;
+          background-color: black;
+         
+      }
+      /*contact */
+
+#contact input,textarea{
+    height: 45px;
+    direction: rtl;
+    font-family: 'Cairo', sans-serif;
+    font-size: 18px;
+    color: #000000;
+    font-weight: 550;
+}
+
+#contact .contact-info,.contact-title,.contact-address{
+    text-align: right;    
+}
+
+#contact .info .contact-title{
+    font-family: 'Cairo', sans-serif; 
+    font-size: 2em;
+    font-weight: 600;
+    text-transform: none;
+    margin-bottom: 40px;
+    color: rgba(102,102,102,1);
+    
+}
+#contact .info h5{
+    font-size: 20px;
+    font-family: 'Cairo', sans-serif; 
+    color: rgba(102,102,102,1);
+    font-weight: 700;
+    font-weight: bold;
+    
+}
+
+#contact .info .contact-address{
+    margin-left: 7px;
+}
+
+#contact .info p{
+    font-size: 16px;
+    font-family: 'Cairo', sans-serif; 
+    color: rgba(102,102,102,1);
+    font-weight: 600;
+    line-height: 1.2em;   
+   
+}
+
+#contact .btn{
+    background: #ceb475;
+    border-radius: 25px;
+    font-family: 'Cairo', sans-serif; 
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 25px;
+    display: block;
+    margin: 20px 0 20px 20px;
+    transition: all 0.4s ease;
+    
+    
+  
+}
+
+#contact .btn:hover{
+    background-color: #000000;
+    color: #fff;
+}
+
+#contact a{
+    text-decoration: none;
+}
+
+  .img-auto{
+    text-align: center;
+    margin-bottom: 120px;
+    margin-top: 50px;
+}
+  
+  /* estshartii page */
+  img{
+    max-width: 100%!important
+  }
+  /* estshartii page */
+
+  #t7kom .container{
+    background-color: #018e97;
+    padding: 21px;
+    direction: rtl;
+  }
+  .opss{
+    display: inline-block; background-color: #01555b;  color: white;
+  }
+  .opss:hover{
+    background-color: #013b3f;
+
+   
+  }
+  a:hover{
+      text-decoration: none;
+  }
+   #t7kom .opss:hover{
+      text-decoration: none;
+  }
+  .ops{
+    background-color:#01555b;
+     text-align:center;
+  }
+   #t7kom .ops:hover{
+   background-color: #013b3f;
+   
+  }
+
+  #t7kom .container h3 a{
+    text-decoration: none;
+    color: #ffffff;
+    
+    font-family: 'Cairo', sans-serif;
+
+  }
+  #t7kom .container h3 a:hover{
+      text-decoration: none;
+  }
+  
+#t7kom .container h3 {
+   
+      margin-left: 250px;
+
+  }
+ #dboard{
+    height: 43px;
+    max-width: 1145px;
+    color: white;
+    text-align: center;
+    margin-left: 185px;
+    background-color: #BDAA59;
+    border:.5px solid #c7c4c4
+   
+}
+#dboard.row.col h5{
+    text-decoration: none;
+     font-family: 'Cairo', sans-serif;
+  
+    text-align: right;
+
+
+
+}
+
+#tickets{
+    padding-top: 10px;
+    direction: rtl;
+    text-align: right;
+    height: 167px;   
+}
+#tickets .col-sm-3{
+    background-color: #fafafa; 
+    border: 1px solid #dedede; 
+     text-align: center; 
+      padding-top: 20px;
+       height: 140px;
+       box-shadow: 2px 2px 2px 2px #e0dcdc;
+}
+      

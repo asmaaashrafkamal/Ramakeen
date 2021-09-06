@@ -1,0 +1,104 @@
+.white-content h1,
+.white-content h2,
+.white-content h3,
+.white-content h4,
+.white-content h5,
+.white-content h6,
+.white-content p,
+.white-content ol li,
+.white-content pre {
+    color: #1d253b;
+    font-size: x-large;
+}
+
+.rtl .sidebar .nav p,
+.rtl .bootstrap-navbar .nav p {
+    margin-right: 45px;
+    text-align: right;
+    font-size: large;
+    color: gold;
+}
+
+.rtl .main-panel {
+    position: fixed;
+    height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.btn,
+.navbar .navbar-nav>a.btn {
+    border-width: 2px;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    margin: 4px 1px;
+    border-radius: 0.4285rem;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 600;
+    color: #525f7f;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 11px 40px;
+    font-size: 0.875rem;
+    line-height: 1.35em;
+}
+
+.btn-danger {
+    background: #fd5d93;
+    background-image: -webkit-linear-gradient(to bottom left, #fd5d93, #ec250d, #fd5d93);
+    background-image: -o-linear-gradient(to bottom left, #fd5d93, #ec250d, #fd5d93);
+    background-image: -moz-linear-gradient(to bottom left, #fd5d93, #ec250d, #fd5d93);
+    background-image: linear-gradient(to bottom left, #fd5d93, #ec250d, #fd5d93);
+    background-size: 210% 210%;
+    background-position: top right;
+    background-color: #fd5d93;
+    transition: all 0.15s ease;
+    box-shadow: none;
+    color: #ffffff;
+}
+
+.white-content .table>thead>tr>th,
+.white-content .table button.btn-neutral.btn-link {
+    color: goldenrod;
+}
+
+.white-content .table>thead>tr>th,
+.white-content .table>tbody>tr>th,
+.white-content .table>tfoot>tr>th,
+.white-content .table>thead>tr>td,
+.white-content .table>tbody>tr>td,
+.white-content .table>tfoot>tr>td {
+    border-color: black;
+    padding: 12px 7px;
+    vertical-align: revert;
+}
+
+.btn15 {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem 1.5rem;
+    font-size: 1.5rem;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    color: black;
+    background-color: gold;
+    border-color: gold;
+}
